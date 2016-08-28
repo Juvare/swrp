@@ -1,1 +1,8 @@
+"swrp"
+{
+	"base" 			"base"
+	"title" 		"Star Wars Roleplay"
+	"maps"			"^rp_"
+	"menusystem"	"1"
+}
 
